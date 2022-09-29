@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @maximiranda
 - 👀 I’m interested in computer science, tecnology, web development, AI and blockchain
-- 🌱 I’m currently learning Django, Python, Java
+- 🌱 I’m currently learning Spring, Java,Django, Python
