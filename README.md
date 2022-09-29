@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @maximiranda
+- 👋 Hi, I’m @maximiranda Java Full-Stack developer
 - 👀 I’m interested in computer science, tecnology, web development, AI and blockchain
-- 🌱 I’m currently learning Spring, Java,Django, Python
