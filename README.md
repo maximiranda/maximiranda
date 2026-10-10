@@ -4,7 +4,6 @@ Software developer and creator of **AI Explicada**, an educational channel (in S
 
 [![YouTube](https://img.shields.io/badge/YouTube-@ai.explicada-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@ai.explicada)
 [![Instagram](https://img.shields.io/badge/Instagram-@aiexplicada-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/aiexplicada/)
-[![TikTok](https://img.shields.io/badge/TikTok-@aiexplicada-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@aiexplicada)
 
 ## GPT from scratch
 
